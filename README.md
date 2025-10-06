@@ -10,6 +10,7 @@ I work with:
   "tools": ["Git", "Maven", "Gradle"]
 }
 ```
+I currently work as an office assistant at [REDACTED].
 
 And I am currently studying **Real Estate Transactions** at ETEC, and I have also completed **Systems Development** at ETEC.  
 I’m from **Peruíbe, Brazil**, and I love learning new things and using my creativity to create stuff.
